@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-- 🧑‍💻 1st-year student passionate about tech, learning programming and development  
+- 🧑‍💻 2nd-year student passionate about tech, learning programming and development  
 - 🌱 Currently learning **C++, Python, HTML, CSS**  
 - 🛠️ Built a **C++ Employee Management System** using OOP and file handling  
 - 🔢 Also created a **Python number guessing game**  
