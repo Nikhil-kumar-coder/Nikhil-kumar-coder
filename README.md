@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Nikhil Kumar
 
-🎓 B.Tech CSE (Data Science) Student | 🏫 Quantum University  
-📍 Currently in Jagdalpur (on vacation) | 📫 nikhilnikumar@gmail.com
+🎓 B.Tech CSE (Data Science) Student | 🏫 Quantum University  | 📫 nikhilnikumar@gmail.com
 
 ---
 
